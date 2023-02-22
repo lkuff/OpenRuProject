@@ -1,4 +1,4 @@
-# Проект по автоматизированному тестированию сайта "Соцтех"
+# Проект по автоматизированному тестированию сайта банка "Открытие"
 
 <p align="center">
 <img title="Allure Overview" src="images/screenshots/OpenRuMainPage.png">
